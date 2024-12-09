@@ -1,4 +1,6 @@
-<!-- # Gestion de Réservation de Salles d'Événements - Frontend
+# Gestion des Suivi des Véhicules
+
+Ce projet frontend est conçu pour aider les entreprises à gérer efficacement leur flotte de véhicules, qu'il s'agisse de voitures, de camions ou d'autres types. Il s'inscrit dans une solution complète visant à centraliser et automatiser la gestion des incidents, des entretiens et des documents liés aux véhicules. L'objectif est de simplifier le suivi grâce à une planification anticipée, réduisant les risques d'oublis et améliorant la disponibilité opérationnelle des véhicules.
 
 ## Prérequis
 
@@ -22,11 +24,11 @@ Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments 
 1. **Cloner le dépôt** :
 
    ```bash
-   git clone
+   git clone https://github.com/Zoubeir7/suivi-vehicule-frontend.git
    ```
 
    ```bash
-   cd
+   cd frontend-vehicule tracking
    ```
 
 2. **Installer les dépendances** :
@@ -43,14 +45,15 @@ Avant d'installer et d'exécuter ce projet, assurez-vous d'avoir les éléments 
 ## Fonctionnalités
 
 - **Authentification Utilisateur** : Connexion sécurisée avec authentification JWT.
+
 - **Gestion des Utilisateurs** : Créer, modifier, consulter ou supprimer un utilisateur.
 
-- **Gestion des Clients** : Créer, modifier,consulter ou supprimer un client.
+- **Gestion des Incidents** : Créer, modifier, consulter ou supprimer un incident associé à un véhicule.
 
-- **Gestion des Réservations** : Créer, modifier, visualiser et annuler des réservations.
-- **Gestion des Salles** : Ajouter, modifier et supprimer des salles.
-- **Tableau de Bord** : Visualiser les réservations sur un calendrier.
+- **Gestion des Entretiens** : Planifier, modifier, consulter ou supprimer des entretiens pour les véhicules.
+
+- **Gestion des Véhicules** : Ajouter, modifier et supprimer des véhicules dans le système.
 
 ## Auteur
 
-### [Zoubeir Ba](https://github.com/Zoubeir7) -->
+### [Zoubeir Ba](https://github.com/Zoubeir7)
